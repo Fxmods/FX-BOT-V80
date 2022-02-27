@@ -11,13 +11,13 @@
     "start": "node index.js"
   },
   "keywords": [
-    "Zitstaa",
+    "FxTeam",
     "whatsapp",
     "bot",
     "whatsapp",
     "bot"
   ],
-  "author": "Zitsraa",
+  "author": "Felixcrack",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -27,6 +27,7 @@
     "cfonts": "^2.9.0",
     "escape-string-regexp": "^4.0.0",
     "fake-useragent": "^1.0.1",
+    "g-i-s": "^2.1.6",
     "ffmpeg": "0.0.4",
     "file-type": "^16.2.0",
     "fluent-ffmpeg": "^2.1.2",
