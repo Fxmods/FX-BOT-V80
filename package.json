@@ -24,7 +24,7 @@
     "async": "^3.2.0",
     "awesome-phonenumber": "^2.49.0",
     "axios": "^0.21.1",
-   "encodeurl": "^1.0.2"
+   "encodeurl": "^1.0.2",
     "cfonts": "^2.9.0",
     "escape-string-regexp": "^4.0.0",
     "fake-useragent": "^1.0.1",
